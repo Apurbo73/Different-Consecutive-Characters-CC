@@ -1,4 +1,4 @@
-### Different Consecutive Characters-CC
+### Different Consecutive Characters CC
 
 The program reads multiple test cases. For each test case, it takes a binary string of length N as input. The goal is to count how many insertions are needed so that no two consecutive characters are the same (i.e., the string alternates between 0 and 1). The logic is to go through the string from the second character to the last, and whenever the current character is the same as the one before it, that means an extra character needs to be inserted in between to make them different — so we increase the counter operations.
 
