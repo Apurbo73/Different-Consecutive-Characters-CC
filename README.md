@@ -97,4 +97,3 @@ The key insight is that **each pair of consecutive identical characters requires
 
 ---
 
-If you want, I can also provide a **dry run** on any other example or add **comments to the code** to clarify each step!
